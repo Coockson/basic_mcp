@@ -12,6 +12,7 @@ basic_mcp
 *.out
 
 # IDE
+.claude/
 .vscode/
 .idea/
 *.swp
