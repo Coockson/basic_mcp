@@ -1,7 +1,7 @@
 {
   "mcpServers": {
-    "greeter": {
-      "command": "./greeter"
+    "basic-mcp": {
+      "command": "./basic_mcp"
     }
   }
 }

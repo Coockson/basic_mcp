@@ -9,4 +9,3 @@ type Input struct {
 type Output struct {
 	Greeting string `json:"greeting" jsonschema:"the greeting to tell to the user"`
 }
-
